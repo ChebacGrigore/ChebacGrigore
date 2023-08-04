@@ -3,7 +3,6 @@
 <br>
 <div align="center" >
   <img align="center" style="width:96%" src="visionnaire-linguagens-de-programacao_14045_img.jpg?raw=true" style = "width: -webkit-fill-available;"/>
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" /> 
   <br><br>
   <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
   
