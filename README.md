@@ -94,7 +94,7 @@ while (me.isAlive()) {
     <td>
       <p align="center">
         <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/payrexx.png" width="100%" />
-        <p align="center"><a href="https://www.staging.payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
+        <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
       </p>
     </td>
   </tr>
